@@ -11,3 +11,9 @@
 ``` javascript
 var myVar = "Green Monsters Coding";
 ```
+##### Here is a short list about what the monsters can do to learn to code
+
+- [x] Create a GitHub account
+- [x] Visit [freeCodeCamp.org](https://www.freecodecamp.org/) and practice 
+- [ ] Work together every day!
+- [ ] Make fun stuff
